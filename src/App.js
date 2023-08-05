@@ -32,7 +32,6 @@ function App() {
 
   const previewColor = (colorData) => {
     setSelectedColor(colorData);
-    console.log(colorData);
   };
 
   const handleButtonClick = (colorData) => {
